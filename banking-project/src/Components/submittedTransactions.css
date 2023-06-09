@@ -1,0 +1,16 @@
+.MuiDataGrid-root .MuiDataGrid-cell:focus {
+    outline: none;
+}
+
+.MuiDataGrid-root .MuiDataGrid-columnHeader:focus-within,
+.MuiDataGrid-root .MuiDataGrid-cell:focus-within {
+    outline: none;
+}
+
+.MuiDataGrid-root .MuiDataGrid-footerContainer .MuiDataGrid-selectedRowCount {
+    visibility: none;
+}
+
+.MuiDataGrid-window {
+    background-color: white;
+}
